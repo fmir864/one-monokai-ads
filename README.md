@@ -4,7 +4,7 @@ Based on [One Monokai Theme](https://github.com/azemoh/vscode-one-monokai) by [J
 
 ## Installation
 
-Download [.vsix file](), open the command palette and select Extensions: Install from VSIX...
+Download [.vsix file](https://github.com/fmir864/one-monokai-ads/releases/download/v0.0.1/one-monokai-ads-0.0.1.vsix), open the command palette and select Extensions: Install from VSIX...
 When installed change you Color Theme to `One Monokai` ...
 
 ## Customization
@@ -24,6 +24,6 @@ If you download and install  the font in your system , you can add this option t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/fmir864/one-monokai-ads/blob/main/LICENSE) file for details
 
 **Enjoy!**
