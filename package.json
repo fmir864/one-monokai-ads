@@ -1,0 +1,23 @@
+{
+    "name": "one-monokai-ads",
+    "displayName": "One Monokai ADS",
+    "description": "One Monokai theme for Azure Data Studio",
+    "publisher": "fmir864",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0",
+        "azdata": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Monokai-color-theme.json"
+            }
+        ]
+    }
+}
